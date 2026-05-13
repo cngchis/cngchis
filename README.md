@@ -8,9 +8,9 @@
 
 🤖 I’m currently focusing on AI engineering, including machine learning systems, LLM applications, and production-ready AI pipelines.
 
-📫 My email: contact@cngchis.com
+📫 My email: contact@cngchis.id.vn
 
-🙋‍♂️ More about me: ✨ https://cngchis.com/ 
+🙋‍♂️ More about me: ✨ https://cngchis.id.vn/ 
 
 <!--
 **cngchis/cngchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
